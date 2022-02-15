@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types:
 - Assignments
+ocw_type: CourseSection
 parent_title: Assignments
 parent_type: CourseSection
 parent_uid: 88f36882-0870-1a5b-07ed-2e929d68ddce
