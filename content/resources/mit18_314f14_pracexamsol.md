@@ -10,6 +10,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: Combinatorial Analysis, Solutions to Practice Final Exam
-type: OCWFile
 uid: 818aac71-b9f4-cbf1-c534-9119fbae7dd5
 ---

@@ -6,7 +6,6 @@ parent_title: Assignments
 parent_type: CourseSection
 parent_uid: 88f36882-0870-1a5b-07ed-2e929d68ddce
 title: Problem Set 5
-type: CourseSection
 uid: 6459c98d-d328-f7b3-f8bb-0b1761de8e42
 ---
 

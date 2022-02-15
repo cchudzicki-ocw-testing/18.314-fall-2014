@@ -8,6 +8,5 @@ parent_title: Problem Set 6
 parent_type: CourseSection
 resourcetype: Document
 title: pennies.dvi
-type: OCWFile
 uid: 90d9aa1e-1be1-2346-83e3-7e4587a8c2c5
 ---

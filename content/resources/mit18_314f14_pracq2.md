@@ -9,6 +9,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: Combinatorial Analysis, Practice Midterm 2
-type: OCWFile
 uid: 21d3bbaf-c454-070e-911c-5bac96b12747
 ---
