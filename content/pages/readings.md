@@ -286,11 +286,11 @@ Minimum Weight Spanning Trees
 {{< tdopen >}}
 
 
-[Matrix-Tree Theorem (PDF)]({{< baseurl >}}/resources/mit18_314f14_mt)  
+{{< resource_link 2724112e-a366-79f8-2dc0-4f0b2f4f355e "Matrix-Tree Theorem (PDF)" >}}  
 paralleling Section 10.4. There are  
 also two exercises.
 
-[More on Matrix-Tree Theorem (PDF)]({{< baseurl >}}/resources/mit18_314f14_mt2)  
+{{< resource_link 99d70739-3fab-ef4e-95c3-d2bd1690af91 "More on Matrix-Tree Theorem (PDF)" >}}  
 for information only to see some  
 more algebraic combinatorics.
 
