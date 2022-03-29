@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Problem Set 11
 parent_type: CourseSection
+parent_uid: e24e2ff9-fc53-2152-ee87-2bd9cadd814a
 resourcetype: Image
 title: pset11.jpg
 uid: be95e32d-d696-cf29-53cb-44b23dd1b5a1

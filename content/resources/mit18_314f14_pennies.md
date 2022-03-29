@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Problem Set 6
 parent_type: CourseSection
+parent_uid: 8b6ade4c-4ff9-e21d-f8d8-b9edc0c51f51
 resourcetype: Document
 title: pennies.dvi
 uid: 90d9aa1e-1be1-2346-83e3-7e4587a8c2c5

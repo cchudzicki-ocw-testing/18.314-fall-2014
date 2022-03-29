@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: f0a576c6-f66a-f323-0751-561493e775d5
 resourcetype: Document
 title: Combinatorial Analysis, Practice Final Exam
 uid: 58d35ce4-3e70-2ce9-d871-0f7d33c5ff33

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: f0a576c6-f66a-f323-0751-561493e775d5
 resourcetype: Document
 title: Combinatorial Analysis, Solutions to Practice Midterm 2
 uid: 0c8f1739-5057-2e78-20b5-d51c0bc0a6b5
