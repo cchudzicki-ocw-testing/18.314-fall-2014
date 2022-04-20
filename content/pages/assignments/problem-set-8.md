@@ -20,7 +20,7 @@ Problem Set 8
 *   Due in Session 22
 *   Practice Problems
     *   Session 19: None from textbook
-        *   A group of _n_ children form circles by holding hands, with a child in the center of each circle. Let _h_(_n_) be the number of ways that this can be done. Set _h_(0)=1. Find a _simple_ expression for the generating function _F_(_x_) = Σ{{< sub "_n_≥0" >}} _h_(_n_)_x__{{< sup "n" >}}_/_n_!. A circle may consist of just one child holding his or her own hands, but a child must be in the center of each circle. The clockwise order of the children around the circle matters, so _k_ children can form a circle in (_k_\-1)! ways. Thus _h_(1)=0, _h_(2)=2, _h_(3)=3, _h_(4)=20, _h_(5)=90. Answer: (1-_x_){{< sup "\\-" >}}_{{< sup "x" >}}_
+        *   A group of _n_ children form circles by holding hands, with a child in the center of each circle. Let _h_(_n_) be the number of ways that this can be done. Set _h_(0)=1. Find a _simple_ expression for the generating function _F_(_x_) = Σ{{< sub "_n_≥0" >}} _h_(_n_)_x__{{< sup "n" >}}_/_n_!. A circle may consist of just one child holding his or her own hands, but a child must be in the center of each circle. The clockwise order of the children around the circle matters, so _k_ children can form a circle in (_k_\-1)! ways. Thus _h_(1)=0, _h_(2)=2, _h_(3)=3, _h_(4)=20, _h_(5)=90. Answer: (1-_x_){{< sup "\-" >}}_{{< sup "x" >}}_
     *   Session 20: Chapter 9: Exercises 1, 2, 3, 6, 16, 18
     *   Session 21: Chapter 9: Exercises 8, 11, 14, 21
 *   Problems Assigned in the Textbook

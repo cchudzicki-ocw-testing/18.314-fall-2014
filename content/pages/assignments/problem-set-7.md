@@ -30,5 +30,5 @@ Problem Set 7
     *   (A9) Show that the number of partitions of _n_ for which no part appears more than twice is equal to the number of partitions of _n_ for which no part is divisible by 3. For instance, when _n_\=5 there are five partitions of the first type (5, 41, 32, 311, 221) and five of the second type (5, 41, 221, 2111, 11111). Use generating functions.
 *   Bonus Problems
     *   (B2) Find the generating function _G_(_x_) = Σ{{< sub "_n_≥0" >}} an_x_{{< sub "_n_" >}}/_n_!,  
-        where _a_{{< sub "_n_+1" >}} = (_n_+1)_a_{{< sub "_n_" >}}\-{_n_\\choose 2}_a_{{< sub "_n_\\-2" >}} for _n_≥0, and _a_{{< sub "0" >}}\=1.  
+        where _a_{{< sub "_n_+1" >}} = (_n_+1)_a_{{< sub "_n_" >}}\-{_n_\\choose 2}_a_{{< sub "_n_\-2" >}} for _n_≥0, and _a_{{< sub "0" >}}\=1.  
         Thus _a_{{< sub "1" >}}\=1, _a_{{< sub "2" >}}\=2, _a_{{< sub "3" >}}\=5. You don't need to find a formula for _a_{{< sub "_n_" >}}.
