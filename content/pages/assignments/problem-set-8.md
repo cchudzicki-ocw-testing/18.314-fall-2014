@@ -19,7 +19,7 @@ A problem marked by \* is difficult; it is not necessary to solve such a problem
 - Due in Session 22
 - Practice Problems
     - Session 19: None from textbook
-        - A group of *n* children form circles by holding hands, with a child in the center of each circle. Let *h*(*n*) be the number of ways that this can be done. Set *h*(0)=1. Find a *simple* expression for the generating function *F*(*x*) = Σ{{< sub "_n_≥0" >}} *h*(*n*)*x\_*{{< sup "n" >}}*/n*!. A circle may consist of just one child holding his or her own hands, but a child must be in the center of each circle. The clockwise order of the children around the circle matters, so *k* children can form a circle in (*k*\-1)! ways. Thus *h*(1)=0, *h*(2)=2, *h*(3)=3, *h*(4)=20, *h*(5)=90. Answer: (1-*x*){{< sup "\-" >}}{{< sup "x" >}}
+        - A group of *n* children form circles by holding hands, with a child in the center of each circle. Let *h*(*n*) be the number of ways that this can be done. Set *h*(0)=1. Find a *simple* expression for the generating function *F*(*x*) = Σ{{< sub "_n_≥0" >}} *h*(*n*)*x\_*{{< sup "n" >}}*/n*!.  *F*(*x*) = Σn≥₀*h*(*n*)xⁿ/*n!.* A circle may consist of just one child holding his or her own hands, but a child must be in the center of each circle. The clockwise order of the children around the circle matters, so *k* children can form a circle in (*k*\-1)! ways. Thus *h*(1)=0, *h*(2)=2, *h*(3)=3, *h*(4)=20, *h*(5)=90. Answer: (1-*x*)ˣ
     - Session 20: Chapter 9: Exercises 1, 2, 3, 6, 16, 18
     - Session 21: Chapter 9: Exercises 8, 11, 14, 21
 - Problems Assigned in the Textbook
