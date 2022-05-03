@@ -28,6 +28,6 @@ A problem marked by \* is difficult; it is not necessary to solve such a problem
     - (A8\*) Show that the number of partitions of *n* for which no part appears exactly once is equal to the number of partitions of *n* for which every part is divisible by 2 or 3. For instance, when *n*\=6 there are four partitions of the first type (111111,2211,222,33) and four of the second type (222, 33, 42, 6). Use generating functions.
     - (A9) Show that the number of partitions of *n* for which no part appears more than twice is equal to the number of partitions of *n* for which no part is divisible by 3. For instance, when *n*\=5 there are five partitions of the first type (5, 41, 32, 311, 221) and five of the second type (5, 41, 221, 2111, 11111). Use generating functions.
 - Bonus Problems
-    - (B2) Find the generating function *G*(*x*) = Σ{{< sub "_n_≥0" >}} an\_x\_{{< sub "_n_" >}}/*n*!,    
-        where *a*{{< sub "_n_+1" >}} = (*n*+1)*a*{{< sub "_n_" >}}\-{*n*\\choose 2}*a*{{< sub "_n_\-2" >}} for *n*≥0, and *a*{{< sub "0" >}}\=1.    
+    - (B2) Find the generating function *G*(*x*) = Σ{{< sub "_n_≥0" >}} anxₙ/*n*!,     
+        where *a*{{< sub "_n_+1" >}} = (*n*+1)*a*{{< sub "_n_" >}}\-{*n*\\choose 2}*a*{{< sub "_n_\-2" >}} for *n*≥0, and *a*{{< sub "0" >}}\=1.     
         Thus *a*{{< sub "1" >}}\=1, *a*{{< sub "2" >}}\=2, *a*{{< sub "3" >}}\=5. You don't need to find a formula for *a*{{< sub "_n_" >}}.
