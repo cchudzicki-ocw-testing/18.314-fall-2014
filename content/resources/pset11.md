@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-314-combinatorial-analysis-fall-2014/be95e32dd696cf2953cb44b23dd1b5a1_pset11.jpg
+file: /courses/18-314-combinatorial-analysis-fall-2014/be95e32dd696cf2953cb44b23dd1b5a1_pset11.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
