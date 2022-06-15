@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides practice exams with solutions and information on
+  the topics covered by each exam of the course.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
