@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page provides a problem set on combinatorial analysis.
 draft: false
 learning_resource_types:
 - Assignments
