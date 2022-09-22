@@ -5,6 +5,7 @@ file: /courses/18-314-combinatorial-analysis-fall-2014/4fedee5366e5075d4cd4a4fb3
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
